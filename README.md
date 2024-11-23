@@ -122,4 +122,4 @@ This repository contains the implementation of two key sub-projects in Natural L
 - **Vedant Marodkar**  
 - **Rajeev Goel**
 
-For more details, refer to the [project report](NLP_Project_Report.pdf).
+For more details, refer to the [project report](NLP_Project_Report_.pdf).
