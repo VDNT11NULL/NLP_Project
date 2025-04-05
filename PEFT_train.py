@@ -7,7 +7,7 @@ ds.num_shards = 2
 from transformers import AutoTokenizer, AutoModelForCausalLM
 import os
 import torch
-os.environ['HF_TOKEN'] = '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'
+os.environ['HF_TOKEN'] = ''
 
 tokenizer = AutoTokenizer.from_pretrained('meta-llama/Llama-3.2-3B')
 model = AutoModelForCausalLM.from_pretrained('meta-llama/Llama-3.2-3B')
